@@ -18,3 +18,5 @@ function App() {
 }
 
 export default App;
+
+/// stopped the video on 41:07
